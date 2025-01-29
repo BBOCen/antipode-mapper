@@ -19,4 +19,6 @@ Ever wondered what's on the exact opposite side of the world from your location?
 
 <h3>🔹 How to run it</h3>
 
-Open this link to find your antipode: 
+Simply open the link below to discover your antipode: 👉 <a href="https://bbocen.github.io/antipode-mapper/antipode-mapper/index.html">Antipode Mapper</a>
+
+Note: To use this app, you must allow location access. Without it, the app cannot determine your position.
